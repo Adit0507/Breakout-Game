@@ -11,6 +11,6 @@ Deployed Link: https://adit0507.github.io/Breakout-Game/
 - Added animation with requestAnimationFrame(cb)
 - Move Paddle using Arrow Keys
 - Keep Score in check
-- Add Collision Detection 
+- Added Collision Detection 
 
 ## HAVE FUN 🎉
